@@ -18,6 +18,7 @@ songs/<set>/preview.mp3   15 s clip for song select (starts at preview_time ms o
 songs/<set>/bg.jpg        background, 1280x720
 songs/<set>/banner.jpg    song select banner, 422x78
 songs/<set>/panel.jpg     Download Maps info panel image, 733x204
+songs/<set>/juke.jpg      music bar background, 500x54
 ```
 
 `<set>` is the Quaver mapset ID (`local-…` for unsubmitted maps), `<map>` the Quaver map ID.
