@@ -21,7 +21,8 @@
    "background": "bg.jpg",
    "chart_kb": 0.7,
    "qua_kb": 7.4,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 1.9096
   },
   {
    "set": "45393",
@@ -40,7 +41,8 @@
    "background": "bg.jpg",
    "chart_kb": 1.4,
    "qua_kb": 13.8,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 3.4633
   },
   {
    "set": "45393",
@@ -59,7 +61,8 @@
    "background": "bg.jpg",
    "chart_kb": 2.3,
    "qua_kb": 22.6,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 5.6849
   },
   {
    "set": "45393",
@@ -78,7 +81,8 @@
    "background": "bg.jpg",
    "chart_kb": 3.1,
    "qua_kb": 33.3,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 8.4243
   },
   {
    "set": "45393",
@@ -97,7 +101,8 @@
    "background": "bg.jpg",
    "chart_kb": 3.6,
    "qua_kb": 40.2,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 10.0923
   },
   {
    "set": "45393",
@@ -116,7 +121,8 @@
    "background": "bg.jpg",
    "chart_kb": 4.8,
    "qua_kb": 48.1,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 11.3942
   },
   {
    "set": "45393",
@@ -135,7 +141,8 @@
    "background": "bg.jpg",
    "chart_kb": 5.0,
    "qua_kb": 51.4,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 12.2422
   },
   {
    "set": "45393",
@@ -154,7 +161,8 @@
    "background": "bg.jpg",
    "chart_kb": 5.3,
    "qua_kb": 54.6,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 13.126
   },
   {
    "set": "45393",
@@ -173,7 +181,8 @@
    "background": "bg.jpg",
    "chart_kb": 5.6,
    "qua_kb": 60.0,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 14.4876
   },
   {
    "set": "45393",
@@ -192,7 +201,8 @@
    "background": "bg.jpg",
    "chart_kb": 6.0,
    "qua_kb": 66.1,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 16.0761
   },
   {
    "set": "45393",
@@ -211,7 +221,8 @@
    "background": "bg.jpg",
    "chart_kb": 6.7,
    "qua_kb": 77.4,
-   "sv_count": 49
+   "sv_count": 49,
+   "density": 18.8828
   }
  ]
 }

@@ -21,7 +21,8 @@
    "background": "bg.jpg",
    "chart_kb": 3.2,
    "qua_kb": 35.4,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 4.9785
   },
   {
    "set": "30525",
@@ -40,7 +41,8 @@
    "background": "bg.jpg",
    "chart_kb": 5.3,
    "qua_kb": 55.9,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 8.1885
   },
   {
    "set": "30525",
@@ -59,7 +61,8 @@
    "background": "bg.jpg",
    "chart_kb": 6.7,
    "qua_kb": 72.8,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 10.7444
   },
   {
    "set": "30525",
@@ -78,7 +81,8 @@
    "background": "bg.jpg",
    "chart_kb": 7.8,
    "qua_kb": 92.4,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 13.3938
   },
   {
    "set": "30525",
@@ -97,7 +101,8 @@
    "background": "bg.jpg",
    "chart_kb": 10.1,
    "qua_kb": 121.6,
-   "sv_count": 17
+   "sv_count": 17,
+   "density": 17.378
   }
  ]
 }

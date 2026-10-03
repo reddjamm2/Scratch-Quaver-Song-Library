@@ -21,7 +21,8 @@
    "background": "bg.jpg",
    "chart_kb": 3.7,
    "qua_kb": 42.2,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 7.968
   },
   {
    "set": "45411",
@@ -40,7 +41,8 @@
    "background": "bg.jpg",
    "chart_kb": 4.3,
    "qua_kb": 52.0,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 9.9057
   }
  ]
 }

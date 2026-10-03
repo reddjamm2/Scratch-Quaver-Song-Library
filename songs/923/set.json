@@ -21,7 +21,8 @@
    "background": "bg.jpg",
    "chart_kb": 0.9,
    "qua_kb": 9.1,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 1.7824
   },
   {
    "set": "923",
@@ -40,7 +41,8 @@
    "background": "bg.jpg",
    "chart_kb": 2.0,
    "qua_kb": 20.5,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 3.2449
   },
   {
    "set": "923",
@@ -59,7 +61,8 @@
    "background": "bg.jpg",
    "chart_kb": 3.3,
    "qua_kb": 32.4,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 4.8894
   },
   {
    "set": "923",
@@ -78,7 +81,8 @@
    "background": "bg.jpg",
    "chart_kb": 4.5,
    "qua_kb": 49.4,
-   "sv_count": 0
+   "sv_count": 0,
+   "density": 7.26
   }
  ]
 }
