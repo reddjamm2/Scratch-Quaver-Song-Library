@@ -22,7 +22,14 @@
    "chart_kb": 1.0,
    "qua_kb": 9.6,
    "sv_count": 0,
-   "density": 4.0515
+   "density": 4.0515,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 27135,
+   "combo": 202,
+   "source": "AIURA"
   },
   {
    "set": "2304",
@@ -42,7 +49,14 @@
    "chart_kb": 1.8,
    "qua_kb": 18.6,
    "sv_count": 0,
-   "density": 7.2933
+   "density": 7.2933,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 47773,
+   "combo": 398,
+   "source": "AIURA"
   },
   {
    "set": "2304",
@@ -62,7 +76,14 @@
    "chart_kb": 2.3,
    "qua_kb": 25.4,
    "sv_count": 0,
-   "density": 9.9792
+   "density": 9.9792,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 40445,
+   "combo": 546,
+   "source": "AIURA"
   },
   {
    "set": "2304",
@@ -82,7 +103,14 @@
    "chart_kb": 2.6,
    "qua_kb": 29.8,
    "sv_count": 0,
-   "density": 11.4222
+   "density": 11.4222,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 34448,
+   "combo": 638,
+   "source": "AIURA"
   },
   {
    "set": "2304",
@@ -102,7 +130,14 @@
    "chart_kb": 3.1,
    "qua_kb": 35.0,
    "sv_count": 0,
-   "density": 13.9108
+   "density": 13.9108,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 22825,
+   "combo": 777,
+   "source": "AIURA"
   },
   {
    "set": "2304",
@@ -122,7 +157,14 @@
    "chart_kb": 3.5,
    "qua_kb": 41.2,
    "sv_count": 0,
-   "density": 16.6858
+   "density": 16.6858,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-07-29T06:17:03",
+   "updated": "2020-10-20T21:19:55",
+   "plays": 22263,
+   "combo": 932,
+   "source": "AIURA"
   }
  ]
 }

@@ -22,7 +22,14 @@
    "chart_kb": 3.2,
    "qua_kb": 35.4,
    "sv_count": 0,
-   "density": 4.9785
+   "density": 4.9785,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2023-12-31T05:25:42",
+   "updated": "2024-08-04T13:14:19",
+   "plays": 5996,
+   "combo": 746,
+   "source": "Arcade Showdown"
   },
   {
    "set": "30525",
@@ -42,7 +49,14 @@
    "chart_kb": 5.3,
    "qua_kb": 55.9,
    "sv_count": 0,
-   "density": 8.1885
+   "density": 8.1885,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2023-12-31T05:25:42",
+   "updated": "2024-08-04T13:14:19",
+   "plays": 15372,
+   "combo": 1227,
+   "source": "Arcade Showdown"
   },
   {
    "set": "30525",
@@ -62,7 +76,14 @@
    "chart_kb": 6.7,
    "qua_kb": 72.8,
    "sv_count": 0,
-   "density": 10.7444
+   "density": 10.7444,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2023-12-31T05:25:42",
+   "updated": "2024-08-04T13:14:19",
+   "plays": 22105,
+   "combo": 1610,
+   "source": "Arcade Showdown"
   },
   {
    "set": "30525",
@@ -82,7 +103,14 @@
    "chart_kb": 7.8,
    "qua_kb": 92.4,
    "sv_count": 0,
-   "density": 13.3938
+   "density": 13.3938,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2023-12-31T05:25:42",
+   "updated": "2024-08-04T13:14:19",
+   "plays": 13273,
+   "combo": 2007,
+   "source": "Arcade Showdown"
   },
   {
    "set": "30525",
@@ -102,7 +130,14 @@
    "chart_kb": 10.1,
    "qua_kb": 121.6,
    "sv_count": 17,
-   "density": 17.378
+   "density": 17.378,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2023-12-31T05:25:42",
+   "updated": "2024-08-04T13:14:19",
+   "plays": 6168,
+   "combo": 2604,
+   "source": "Arcade Showdown"
   }
  ]
 }

@@ -22,7 +22,14 @@
    "chart_kb": 1.5,
    "qua_kb": 14.7,
    "sv_count": 0,
-   "density": 4.2261
+   "density": 4.2261,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-06-15T09:19:32",
+   "updated": "2024-02-21T23:34:46",
+   "plays": 6073,
+   "combo": 307,
+   "source": "Toradora!"
   },
   {
    "set": "19201",
@@ -42,7 +49,14 @@
    "chart_kb": 2.0,
    "qua_kb": 22.9,
    "sv_count": 0,
-   "density": 6.5664
+   "density": 6.5664,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-06-15T09:19:32",
+   "updated": "2024-02-21T23:34:46",
+   "plays": 8017,
+   "combo": 477,
+   "source": "Toradora!"
   },
   {
    "set": "19201",
@@ -62,7 +76,14 @@
    "chart_kb": 2.0,
    "qua_kb": 22.9,
    "sv_count": 0,
-   "density": 6.5664
+   "density": 6.5664,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-06-15T09:19:32",
+   "updated": "2024-02-21T23:34:46",
+   "plays": 11022,
+   "combo": 477,
+   "source": "Toradora!"
   },
   {
    "set": "19201",
@@ -82,7 +103,14 @@
    "chart_kb": 2.5,
    "qua_kb": 29.8,
    "sv_count": 0,
-   "density": 8.59
+   "density": 8.59,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-06-15T09:19:32",
+   "updated": "2024-02-21T23:34:46",
+   "plays": 10204,
+   "combo": 624,
+   "source": "Toradora!"
   },
   {
    "set": "19201",
@@ -102,7 +130,14 @@
    "chart_kb": 2.9,
    "qua_kb": 35.8,
    "sv_count": 0,
-   "density": 10.352
+   "density": 10.352,
+   "status": 2,
+   "clan": 1,
+   "submitted": "2022-06-15T09:19:32",
+   "updated": "2024-02-21T23:34:46",
+   "plays": 14981,
+   "combo": 752,
+   "source": "Toradora!"
   }
  ]
 }

@@ -22,7 +22,14 @@
    "chart_kb": 3.7,
    "qua_kb": 42.2,
    "sv_count": 0,
-   "density": 7.968
+   "density": 7.968,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-24T23:42:07",
+   "updated": "2026-06-24T06:17:51",
+   "plays": 3340,
+   "combo": 880,
+   "source": ""
   },
   {
    "set": "45411",
@@ -42,7 +49,14 @@
    "chart_kb": 4.3,
    "qua_kb": 52.0,
    "sv_count": 0,
-   "density": 9.9057
+   "density": 9.9057,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-24T23:42:07",
+   "updated": "2026-06-24T06:17:51",
+   "plays": 3016,
+   "combo": 1094,
+   "source": ""
   }
  ]
 }

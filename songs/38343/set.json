@@ -22,7 +22,14 @@
    "chart_kb": 1.7,
    "qua_kb": 16.2,
    "sv_count": 0,
-   "density": 3.7639
+   "density": 3.7639,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 3816,
+   "combo": 344,
+   "source": "beatmania IIDX 22 PENDUAL"
   },
   {
    "set": "38343",
@@ -42,7 +49,14 @@
    "chart_kb": 3.1,
    "qua_kb": 29.9,
    "sv_count": 0,
-   "density": 7.0086
+   "density": 7.0086,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 12878,
+   "combo": 643,
+   "source": "beatmania IIDX 22 PENDUAL"
   },
   {
    "set": "38343",
@@ -62,7 +76,14 @@
    "chart_kb": 3.8,
    "qua_kb": 41.3,
    "sv_count": 0,
-   "density": 9.6682
+   "density": 9.6682,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 12696,
+   "combo": 887,
+   "source": "beatmania IIDX 22 PENDUAL"
   },
   {
    "set": "38343",
@@ -82,7 +103,14 @@
    "chart_kb": 4.3,
    "qua_kb": 47.4,
    "sv_count": 0,
-   "density": 11.0961
+   "density": 11.0961,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 10453,
+   "combo": 1018,
+   "source": "beatmania IIDX 22 PENDUAL"
   },
   {
    "set": "38343",
@@ -102,7 +130,14 @@
    "chart_kb": 5.1,
    "qua_kb": 60.0,
    "sv_count": 0,
-   "density": 14.0282
+   "density": 14.0282,
+   "status": 2,
+   "clan": 1,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 3599,
+   "combo": 1287,
+   "source": "beatmania IIDX 22 PENDUAL"
   },
   {
    "set": "38343",
@@ -122,7 +157,14 @@
    "chart_kb": 6.0,
    "qua_kb": 74.3,
    "sv_count": 0,
-   "density": 17.3635
+   "density": 17.3635,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2025-01-29T09:20:56",
+   "updated": "2025-04-07T01:46:29",
+   "plays": 2094,
+   "combo": 1593,
+   "source": "beatmania IIDX 22 PENDUAL"
   }
  ]
 }

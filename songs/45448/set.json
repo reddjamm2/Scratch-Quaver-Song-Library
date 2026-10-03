@@ -22,7 +22,14 @@
    "chart_kb": 1.1,
    "qua_kb": 11.5,
    "sv_count": 0,
-   "density": 2.0125
+   "density": 2.0125,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 598,
+   "combo": 230,
+   "source": ""
   },
   {
    "set": "45448",
@@ -42,7 +49,14 @@
    "chart_kb": 2.7,
    "qua_kb": 29.3,
    "sv_count": 0,
-   "density": 5.3375
+   "density": 5.3375,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 792,
+   "combo": 610,
+   "source": ""
   },
   {
    "set": "45448",
@@ -62,7 +76,14 @@
    "chart_kb": 3.1,
    "qua_kb": 33.6,
    "sv_count": 0,
-   "density": 6.1163
+   "density": 6.1163,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 1360,
+   "combo": 699,
+   "source": ""
   },
   {
    "set": "45448",
@@ -82,7 +103,14 @@
    "chart_kb": 3.5,
    "qua_kb": 38.4,
    "sv_count": 0,
-   "density": 7.0088
+   "density": 7.0088,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 1970,
+   "combo": 801,
+   "source": ""
   },
   {
    "set": "45448",
@@ -102,7 +130,14 @@
    "chart_kb": 4.5,
    "qua_kb": 47.8,
    "sv_count": 0,
-   "density": 8.7763
+   "density": 8.7763,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 3072,
+   "combo": 1003,
+   "source": ""
   },
   {
    "set": "45448",
@@ -122,7 +157,14 @@
    "chart_kb": 5.1,
    "qua_kb": 55.1,
    "sv_count": 0,
-   "density": 10.1588
+   "density": 10.1588,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 4306,
+   "combo": 1161,
+   "source": ""
   },
   {
    "set": "45448",
@@ -142,7 +184,14 @@
    "chart_kb": 6.2,
    "qua_kb": 71.4,
    "sv_count": 0,
-   "density": 13.1776
+   "density": 13.1776,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 2522,
+   "combo": 1506,
+   "source": ""
   },
   {
    "set": "45448",
@@ -162,7 +211,14 @@
    "chart_kb": 6.3,
    "qua_kb": 73.0,
    "sv_count": 0,
-   "density": 13.4751
+   "density": 13.4751,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 1950,
+   "combo": 1540,
+   "source": ""
   },
   {
    "set": "45448",
@@ -182,7 +238,14 @@
    "chart_kb": 7.1,
    "qua_kb": 86.2,
    "sv_count": 0,
-   "density": 15.9426
+   "density": 15.9426,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 1559,
+   "combo": 1822,
+   "source": ""
   },
   {
    "set": "45448",
@@ -202,7 +265,14 @@
    "chart_kb": 8.1,
    "qua_kb": 100.9,
    "sv_count": 0,
-   "density": 18.6814
+   "density": 18.6814,
+   "status": 2,
+   "clan": 1,
+   "submitted": "2026-03-27T08:27:55",
+   "updated": "2026-05-11T11:13:10",
+   "plays": 1258,
+   "combo": 2135,
+   "source": ""
   }
  ]
 }

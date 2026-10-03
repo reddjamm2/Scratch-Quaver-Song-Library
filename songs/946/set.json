@@ -22,7 +22,14 @@
    "chart_kb": 1.3,
    "qua_kb": 13.3,
    "sv_count": 0,
-   "density": 3.1349
+   "density": 3.1349,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-05-13T22:16:26",
+   "updated": "2020-05-29T12:49:19",
+   "plays": 13232,
+   "combo": 275,
+   "source": "Haiyore! Nyaruko-san W"
   },
   {
    "set": "946",
@@ -42,7 +49,14 @@
    "chart_kb": 2.1,
    "qua_kb": 21.1,
    "sv_count": 0,
-   "density": 5.3009
+   "density": 5.3009,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-05-13T22:16:26",
+   "updated": "2020-05-29T12:49:19",
+   "plays": 35159,
+   "combo": 465,
+   "source": "Haiyore! Nyaruko-san W"
   },
   {
    "set": "946",
@@ -62,7 +76,14 @@
    "chart_kb": 3.2,
    "qua_kb": 36.1,
    "sv_count": 0,
-   "density": 8.9716
+   "density": 8.9716,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-05-13T22:16:26",
+   "updated": "2020-05-29T12:49:19",
+   "plays": 42636,
+   "combo": 787,
+   "source": "Haiyore! Nyaruko-san W"
   }
  ]
 }

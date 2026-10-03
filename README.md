@@ -23,9 +23,11 @@ songs/<set>/banner.jpg    song select banner, 422x78 (top of the background)
 
 ## index.txt columns
 
-`set, map, title, artist, creator, difficulty, rating, bpm, length, notes, holds, audio, preview_time, background, density`
+`set, map, title, artist, creator, difficulty, rating, bpm, length, notes, holds, audio, preview_time, background, density, status, clan, submitted, updated, plays, combo, source`
 — `rating` is Quaver's difficulty rating (empty if unknown), `length` is in ms, `density` is Quaver's
-actions per second (used for health weighting).
+actions per second (used for health weighting). `status` is Quaver's ranked status (0 not submitted,
+1 unranked, 2 ranked), `clan` 1 if clan ranked, `submitted`/`updated` are UTC dates, `plays` Quaver's
+play count, `combo` max combo, `source` the song source.
 
 ## Chart format (Q1)
 

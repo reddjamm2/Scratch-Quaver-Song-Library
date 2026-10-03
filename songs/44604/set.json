@@ -22,7 +22,14 @@
    "chart_kb": 1.9,
    "qua_kb": 20.2,
    "sv_count": 0,
-   "density": 5.1292
+   "density": 5.1292,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-02-01T21:26:59",
+   "updated": "2026-03-03T05:37:59",
+   "plays": 2565,
+   "combo": 417,
+   "source": "LISTEN TO THE MUSIC"
   },
   {
    "set": "44604",
@@ -42,7 +49,14 @@
    "chart_kb": 3.0,
    "qua_kb": 33.7,
    "sv_count": 0,
-   "density": 8.6962
+   "density": 8.6962,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-02-01T21:26:59",
+   "updated": "2026-03-03T05:37:59",
+   "plays": 6504,
+   "combo": 707,
+   "source": "LISTEN TO THE MUSIC"
   },
   {
    "set": "44604",
@@ -62,7 +76,14 @@
    "chart_kb": 3.9,
    "qua_kb": 45.9,
    "sv_count": 0,
-   "density": 11.9065
+   "density": 11.9065,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-02-01T21:26:59",
+   "updated": "2026-03-03T05:37:59",
+   "plays": 4967,
+   "combo": 968,
+   "source": "LISTEN TO THE MUSIC"
   },
   {
    "set": "44604",
@@ -82,7 +103,14 @@
    "chart_kb": 4.4,
    "qua_kb": 54.8,
    "sv_count": 0,
-   "density": 14.2404
+   "density": 14.2404,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-02-01T21:26:59",
+   "updated": "2026-03-03T05:37:59",
+   "plays": 2943,
+   "combo": 1158,
+   "source": "LISTEN TO THE MUSIC"
   },
   {
    "set": "44604",
@@ -102,7 +130,14 @@
    "chart_kb": 4.9,
    "qua_kb": 62.0,
    "sv_count": 0,
-   "density": 16.085
+   "density": 16.085,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2026-02-01T21:26:59",
+   "updated": "2026-03-03T05:37:59",
+   "plays": 2813,
+   "combo": 1308,
+   "source": "LISTEN TO THE MUSIC"
   }
  ]
 }

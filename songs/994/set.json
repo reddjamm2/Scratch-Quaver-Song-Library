@@ -22,7 +22,14 @@
    "chart_kb": 1.2,
    "qua_kb": 11.7,
    "sv_count": 0,
-   "density": 2.6529
+   "density": 2.6529,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 111358,
+   "combo": 240,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -42,7 +49,14 @@
    "chart_kb": 2.0,
    "qua_kb": 19.4,
    "sv_count": 0,
-   "density": 3.6826
+   "density": 3.6826,
+   "status": 2,
+   "clan": 1,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 186665,
+   "combo": 407,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -62,7 +76,14 @@
    "chart_kb": 2.7,
    "qua_kb": 29.3,
    "sv_count": 0,
-   "density": 5.0694
+   "density": 5.0694,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 383411,
+   "combo": 617,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -82,7 +103,14 @@
    "chart_kb": 4.5,
    "qua_kb": 49.9,
    "sv_count": 0,
-   "density": 8.7034
+   "density": 8.7034,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 434203,
+   "combo": 1062,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -102,7 +130,14 @@
    "chart_kb": 5.4,
    "qua_kb": 57.5,
    "sv_count": 0,
-   "density": 10.7898
+   "density": 10.7898,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 353844,
+   "combo": 1330,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -122,7 +157,14 @@
    "chart_kb": 5.5,
    "qua_kb": 64.9,
    "sv_count": 0,
-   "density": 11.374
+   "density": 11.374,
+   "status": 2,
+   "clan": 1,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 210350,
+   "combo": 1402,
+   "source": "Quaver"
   },
   {
    "set": "994",
@@ -142,7 +184,14 @@
    "chart_kb": 11.4,
    "qua_kb": 96.1,
    "sv_count": 285,
-   "density": 14.7258
+   "density": 14.7258,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2020-06-04T17:04:24",
+   "updated": "2020-07-04T20:56:28",
+   "plays": 148192,
+   "combo": 1806,
+   "source": "Quaver"
   }
  ]
 }

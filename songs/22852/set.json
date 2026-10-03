@@ -22,7 +22,14 @@
    "chart_kb": 1.7,
    "qua_kb": 17.0,
    "sv_count": 0,
-   "density": 4.364
+   "density": 4.364,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-11-13T21:02:51",
+   "updated": "2023-06-11T09:02:03",
+   "plays": 4070,
+   "combo": 372,
+   "source": "The rain doesn't stop yet."
   },
   {
    "set": "22852",
@@ -42,7 +49,14 @@
    "chart_kb": 2.5,
    "qua_kb": 24.8,
    "sv_count": 0,
-   "density": 6.6868
+   "density": 6.6868,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-11-13T21:02:51",
+   "updated": "2023-06-11T09:02:03",
+   "plays": 10292,
+   "combo": 570,
+   "source": "The rain doesn't stop yet."
   },
   {
    "set": "22852",
@@ -62,7 +76,14 @@
    "chart_kb": 3.3,
    "qua_kb": 35.9,
    "sv_count": 0,
-   "density": 9.4319
+   "density": 9.4319,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-11-13T21:02:51",
+   "updated": "2023-06-11T09:02:03",
+   "plays": 14932,
+   "combo": 804,
+   "source": "The rain doesn't stop yet."
   },
   {
    "set": "22852",
@@ -82,7 +103,14 @@
    "chart_kb": 4.6,
    "qua_kb": 46.0,
    "sv_count": 0,
-   "density": 13.6551
+   "density": 13.6551,
+   "status": 2,
+   "clan": 0,
+   "submitted": "2022-11-13T21:02:51",
+   "updated": "2023-06-11T09:02:03",
+   "plays": 10735,
+   "combo": 1164,
+   "source": "The rain doesn't stop yet."
   }
  ]
 }
