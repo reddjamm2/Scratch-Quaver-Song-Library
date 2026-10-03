@@ -1,0 +1,109 @@
+set	map	title	artist	creator	difficulty	rating	bpm	length	notes	holds	audio	preview_time	background
+45393	184232	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	( .zZ ) | Beginner	0.51	220.0	84817	144	0	audio.mp3	20453	bg.jpg
+45393	184227	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(v . v) | Easy	1.24	220.0	84817	281	0	audio.mp3	20453	bg.jpg
+45393	184233	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(u . u) | Normal	4.17	220.0	84817	469	0	audio.mp3	20453	bg.jpg
+45393	184228	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(>o . o<) | Advanced	10.61	220.0	84817	695	0	audio.mp3	20453	bg.jpg
+45393	184234	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(^-.-^) | Hard	16.96	220.0	84817	845	0	audio.mp3	20453	bg.jpg
+45393	184231	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(> . . <) | Hyper	19.62	220.0	84817	954	0	audio.mp3	20453	bg.jpg
+45393	184237	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(^ . . ^) | Insane	24.31	220.0	84817	1025	0	audio.mp3	20453	bg.jpg
+45393	184236	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(^- -^) | Another	26.18	220.0	84817	1099	0	audio.mp3	20453	bg.jpg
+45393	184230	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(-^. .^-) | Expert	27.27	220.0	84817	1213	0	audio.mp3	20453	bg.jpg
+45393	184235	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(>^ . ^<) | Extra	28.6	220.0	84817	1346	0	audio.mp3	20453	bg.jpg
+45393	184229	Cat Loving (kageminori bootleg)	Kashii Moimi feat. KAFU	7xbi	(>^. .^<) | mrrreeeeooowwww~	31.54	220.0	84817	1581	0	audio.mp3	20453	bg.jpg
+536	1416	Csikos Post	zetoban	PianoLuigi	Beginner	0.49	185.0	103783	167	0	audio.mp3	0	bg.jpg
+536	1415	Csikos Post	zetoban	PianoLuigi	Easy	0.8	185.0	105081	277	14	audio.mp3	0	bg.jpg
+536	1418	Csikos Post	zetoban	PianoLuigi	Normal	3.84	185.0	105081	273	125	audio.mp3	0	bg.jpg
+536	1417	Csikos Post	zetoban	PianoLuigi	Hard	10.54	185.0	105081	838	54	audio.mp3	0	bg.jpg
+536	1413	Csikos Post	zetoban	PianoLuigi	Insane	19.06	185.0	105081	1179	85	audio.mp3	0	bg.jpg
+536	1414	Csikos Post	zetoban	PianoLuigi	Expert	28.62	185.0	105081	1622	140	audio.mp3	0	bg.jpg
+38343	161003	Fake out	Last Note. feat.mirin	Alyca	Easy	2.42	215.0	98760	312	16	audio.mp3	54179	bg.jpg
+38343	161004	Fake out	Last Note. feat.mirin	Alyca	Normal	7.24	215.0	98760	593	25	audio.mp3	54179	bg.jpg
+38343	161274	Fake out	Last Note. feat.mirin	Alyca	Hard	13.65	215.0	98760	831	28	audio.mp3	54179	bg.jpg
+38343	160936	Fake out	Last Note. feat.mirin	Alyca	Insane	18.47	215.0	98760	960	29	audio.mp3	54179	bg.jpg
+38343	161273	Fake out	Last Note. feat.mirin	Alyca	Another	27.24	215.0	98760	1229	29	audio.mp3	54179	bg.jpg
+38343	160879	Fake out	Last Note. feat.mirin	Alyca	Fake out	31.15	215.0	98760	1535	29	audio.mp3	54179	bg.jpg
+6019	42324	Itadaki	CHUBAY	MarioUniverseZ	Easy	1.37	202.0	116918	375	22	audio.mp3	45631	bg.jpg
+6019	42327	Itadaki	CHUBAY	MarioUniverseZ	Normal	6.62	202.0	117067	708	14	audio.mp3	45631	bg.jpg
+6019	42325	Itadaki	CHUBAY	MarioUniverseZ	Hard	15.23	202.0	117067	1111	18	audio.mp3	45631	bg.jpg
+6019	42326	Itadaki	CHUBAY	MarioUniverseZ	Insane	22.14	202.0	117067	1390	28	audio.mp3	45631	bg.jpg
+6019	42328	Itadaki	CHUBAY	MarioUniverseZ	Reaching the Top	26.19	202.0	117067	1474	122	audio.mp3	45631	bg.jpg
+2304	18985	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	Easy	1.67	210.0	58695	186	8	audio.mp3	0	bg.jpg
+2304	18984	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	Normal	7.13	210.0	58837	374	12	audio.mp3	0	bg.jpg
+2304	18983	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	Hard	13.03	210.0	58837	510	18	audio.mp3	0	bg.jpg
+2304	18981	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	Insane	19.01	210.0	58837	610	14	audio.mp3	0	bg.jpg
+2304	18690	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	Expert	25.68	210.0	58837	661	58	audio.mp3	0	bg.jpg
+2304	18982	Kani*Do-Luck! (TV Size)	Aiurabu	PlayerZero	NANI NANI NANI NANI	29.04	210.0	58837	740	96	audio.mp3	0	bg.jpg
+946	11247	Koi wa Chaos no Shimobenari (TV Size)	Ushirokara Haiyoritai G	PianoLuigi	Easy	1.42	158.0	88116	269	3	audio.mp3	67135	bg.jpg
+946	11246	Koi wa Chaos no Shimobenari (TV Size)	Ushirokara Haiyoritai G	PianoLuigi	Normal	4.13	158.0	88116	383	41	audio.mp3	67135	bg.jpg
+946	11245	Koi wa Chaos no Shimobenari (TV Size)	Ushirokara Haiyoritai G	PianoLuigi	Hard	8.23	158.0	88116	703	42	audio.mp3	67135	bg.jpg
+20039	93184	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Beginner	0.6	200.0	46525	79	10	audio.mp3	0	bg.jpg
+20039	92108	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Easy	2.38	200.0	46825	208	32	audio.mp3	0	bg.jpg
+20039	92854	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Normal	7.15	200.0	46675	329	11	audio.mp3	0	bg.jpg
+20039	92109	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Hard	17.7	200.0	46675	515	0	audio.mp3	0	bg.jpg
+20039	91538	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Insane	24.68	200.0	46750	565	79	audio.mp3	0	bg.jpg
+20039	91536	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Extra	30.42	200.0	46675	772	0	audio.mp3	0	bg.jpg
+20039	91537	Left Right (Ryan Randi Mix)	Swan	Jindax	4K Extreme	34.58	200.0	46750	886	17	audio.mp3	0	bg.jpg
+19201	129974	Orange (GoldenWolf Edit)	Kugimiya Rie, Horie Yui, Kitamura Eri	Alyca	Easy	2.28	140.0	88132	289	9	audio.mp3	28	bg.jpg
+19201	88440	Orange (GoldenWolf Edit)	Kugimiya Rie, Horie Yui, Kitamura Eri	Alyca	Normal	3.53	140.0	88132	475	1	audio.mp3	28	bg.jpg
+19201	129973	Orange (GoldenWolf Edit)	Kugimiya Rie, Horie Yui, Kitamura Eri	Alyca	Hard	9.56	140.0	88132	477	0	audio.mp3	28	bg.jpg
+19201	129972	Orange (GoldenWolf Edit)	Kugimiya Rie, Horie Yui, Kitamura Eri	Alyca	Insane	13.89	140.0	88132	624	0	audio.mp3	28	bg.jpg
+19201	88370	Orange (GoldenWolf Edit)	Kugimiya Rie, Horie Yui, Kitamura Eri	Alyca	Tights	14.92	140.0	88132	752	0	audio.mp3	28	bg.jpg
+44604	181080	oyasumi (Cut Ver.)	Shiggy Jr.	netzoid	easy	2.78	200.0	81781	417	0	audio.mp3	19681	bg.jpg
+44604	181083	oyasumi (Cut Ver.)	Shiggy Jr.	netzoid	normal	10.55	200.0	81781	707	0	audio.mp3	19681	bg.jpg
+44604	181081	oyasumi (Cut Ver.)	Shiggy Jr.	netzoid	hard	19.34	200.0	81781	968	0	audio.mp3	19681	bg.jpg
+44604	181082	oyasumi (Cut Ver.)	Shiggy Jr.	netzoid	insane	26.76	200.0	81799	1158	0	audio.mp3	19681	bg.jpg
+44604	181084	oyasumi (Cut Ver.)	Shiggy Jr.	netzoid	starlight	29.97	200.0	81799	1308	0	audio.mp3	19681	bg.jpg
+42819	175344	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Easy	2.0	170.0	113343	413	0	audio.mp3	22990	bg.jpg
+42819	175348	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Normal	4.36	170.0	113343	632	0	audio.mp3	22990	bg.jpg
+42819	175343	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Advanced	11.69	170.0	113343	900	0	audio.mp3	22990	bg.jpg
+42819	175345	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Hard	16.78	170.0	113343	1221	0	audio.mp3	22990	bg.jpg
+42819	175346	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Hyper	21.28	170.0	113343	1432	0	audio.mp3	22990	bg.jpg
+42819	175347	Part Of Me (Whippa Hardstyle Remix)	Katy Perry	netzoid	Insane	23.18	170.0	113343	1642	0	audio.mp3	22990	bg.jpg
+42553	174646	play 3k NOW!	netzoid	netzoid	Easy	1.65	180.0	65816	216	3	audio.mp3	30983	bg.jpg
+42553	174642	play 3k NOW!	netzoid	netzoid	Normal	4.17	180.0	65816	347	1	audio.mp3	30983	bg.jpg
+42553	174645	play 3k NOW!	netzoid	netzoid	Hard	9.74	180.0	65816	446	1	audio.mp3	30983	bg.jpg
+42553	174643	play 3k NOW!	netzoid	netzoid	Insane	16.93	180.0	65816	580	1	audio.mp3	30983	bg.jpg
+42553	174644	play 3k NOW!	netzoid	netzoid	Expert	20.91	180.0	65816	707	1	audio.mp3	30983	bg.jpg
+16454	78230	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Beginner	0.79	120.0	64866	182	4	audio.mp3	835	bg.jpg
+16454	77618	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Easy	2.45	120.0	64866	353	0	audio.mp3	835	bg.jpg
+16454	78228	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Normal	7.31	120.0	64866	529	0	audio.mp3	835	bg.jpg
+16454	78229	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Hard	15.57	120.0	64866	733	0	audio.mp3	835	bg.jpg
+16454	78231	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Insane	26.12	120.0	64866	869	0	audio.mp3	835	bg.jpg
+16454	77469	Play a Mini-Game! (Gamma Mix)	Yasunori Mitsuda	MORGENSHTERN	Party!	35.75	120.0	64866	1282	0	audio.mp3	835	bg.jpg
+35718	151060	run home	633397	netzoid	will's beginner	0.83	185.0	83526	202	24	audio.mp3	41688	bg.jpg
+35718	151057	run home	633397	netzoid	easy	2.79	185.0	83526	352	13	audio.mp3	41688	bg.jpg
+35718	151058	run home	633397	netzoid	normal	10.09	185.0	83526	566	2	audio.mp3	41688	bg.jpg
+35718	151061	run home	633397	netzoid	anwul's hard	19.07	185.0	83526	806	0	audio.mp3	41688	bg.jpg
+35718	151059	run home	633397	netzoid	seclude	26.17	185.0	83526	1035	0	audio.mp3	41688	bg.jpg
+30525	131533	Scratch Post	PaperKitty	SyncdeathWyvern	Easy	1.67	195.0	153538	718	14	audio.mp3	2461	bg.jpg
+30525	131534	Scratch Post	PaperKitty	SyncdeathWyvern	Normal	7.33	195.0	153538	1045	91	audio.mp3	2461	bg.jpg
+30525	131536	Scratch Post	PaperKitty	SyncdeathWyvern	Hard	13.64	195.0	153538	1352	129	audio.mp3	2461	bg.jpg
+30525	131537	Scratch Post	PaperKitty	SyncdeathWyvern	Insane	23.67	195.0	153538	1811	98	audio.mp3	2461	bg.jpg
+30525	131535	Scratch Post	PaperKitty	SyncdeathWyvern	Csikos Impromptu	29.8	195.0	153538	2414	95	audio.mp3	2461	bg.jpg
+3336	26588	Six Trillion Years and Overnight Story	Roselia	PianoLuigi	Beginner	0.69	186.0	96157	216	12	audio.mp3	52385	bg.jpg
+3336	25947	Six Trillion Years and Overnight Story	Roselia	PianoLuigi	Easy	2.36	186.0	96157	374	2	audio.mp3	52385	bg.jpg
+3336	25946	Six Trillion Years and Overnight Story	Roselia	PianoLuigi	Normal	4.88	186.0	96157	565	2	audio.mp3	52385	bg.jpg
+3336	25936	Six Trillion Years and Overnight Story	Roselia	PianoLuigi	Hard	12.21	186.0	96157	812	5	audio.mp3	52385	bg.jpg
+3336	25935	Six Trillion Years and Overnight Story	Roselia	PianoLuigi	Insane	22.31	186.0	96157	1114	18	audio.mp3	52385	bg.jpg
+42227	173717	Surrounding	Saiden	Storn	Easy	2.31	173.0	92510	264	0	audio.mp3	0	bg.jpg
+42227	173718	Surrounding	Saiden	Storn	Normal	7.58	173.0	92510	448	0	audio.mp3	0	bg.jpg
+42227	173713	Surrounding	Saiden	Storn	Advanced	9.46	173.0	92510	653	0	audio.mp3	0	bg.jpg
+42227	173714	Surrounding	Saiden	Storn	Hard	18.04	173.0	92510	866	0	audio.mp3	0	bg.jpg
+42227	173715	Surrounding	Saiden	Storn	Insane	23.24	173.0	92510	947	14	audio.mp3	0	bg.jpg
+42227	173716	Surrounding	Saiden	Storn	Expert	28.13	173.0	92510	1141	28	audio.mp3	0	bg.jpg
+45448	184441	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Beginner | *.+ .zZ ~	0.58	126.0	114660	230	0	audio.mp3	0	bg.jpg
+45448	184439	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Easy | *.+ Heart~	1.99	126.0	114660	610	0	audio.mp3	0	bg.jpg
+45448	184442	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Normal | *.+ Burning~	4.14	126.0	114660	699	0	audio.mp3	0	bg.jpg
+45448	184443	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Intermediate | *.+ Falling~	9.28	126.0	114660	801	0	audio.mp3	0	bg.jpg
+45448	184435	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Hard | *.+ Apart~	11.76	126.0	114660	1003	0	audio.mp3	0	bg.jpg
+45448	184440	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Hyper | *.+ Night~	16.03	126.0	114660	1161	0	audio.mp3	0	bg.jpg
+45448	184444	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Jindax' Insane | *.+ Calling~	23.96	126.0	114660	1506	0	audio.mp3	0	bg.jpg
+45448	184438	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Another | *.+ Love~	27.03	126.0	114660	1540	0	audio.mp3	0	bg.jpg
+45448	184437	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Expert | *.+ Devotion~	30.44	126.0	114660	1822	0	audio.mp3	0	bg.jpg
+45448	184436	Temptation (feat. Rebecca) (Sped Up & Cut Ver.)	Arash	7xbi	Jindax' Extra | *.+ Temptation~	35.27	126.0	114660	2135	0	audio.mp3	0	bg.jpg
+45411	184328	Til Death (Technoposse Remix Edit) (Nightcore & Cut Ver.)	Digital Sexy	Mio Akiyama	Hard	12.43	166.24	111524	880	0	audio.mp3	48002	bg.jpg
+45411	184327	Til Death (Technoposse Remix Edit) (Nightcore & Cut Ver.)	Digital Sexy	Mio Akiyama	Forever	17.98	166.24	111524	1094	0	audio.mp3	48002	bg.jpg
+39702	165868	Wildfire	HammerFall	Storn	Easy	2.12	140.0	78703	323	0	audio.mp3	1	bg.jpg
+39702	165871	Wildfire	HammerFall	Storn	Normal	8.27	140.0	81275	516	0	audio.mp3	1	bg.jpg
+39702	165870	Wildfire	HammerFall	Storn	Hard	14.19	140.0	81275	771	0	audio.mp3	1	bg.jpg
+39702	165869	Wildfire	HammerFall	Storn	Wildfire	20.49	140.0	81275	981	0	audio.mp3	1	bg.jpg
