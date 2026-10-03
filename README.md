@@ -16,7 +16,8 @@ songs/<set>/<map>.txt     chart (Q1 format, below)
 songs/<set>/audio.mp3     full song
 songs/<set>/preview.mp3   15 s clip for song select (starts at preview_time ms of audio.mp3)
 songs/<set>/bg.jpg        background, 1280x720
-songs/<set>/banner.jpg    song select banner, 422x78 (top of the background)
+songs/<set>/banner.jpg    song select banner, 422x78
+songs/<set>/panel.jpg     Download Maps info panel image, 733x204
 ```
 
 `<set>` is the Quaver mapset ID (`local-…` for unsubmitted maps), `<map>` the Quaver map ID.
