@@ -16,12 +16,27 @@ set	map	title	artist	creator	difficulty	rating	bpm	length	notes	holds	audio	prev
 536	1417	Csikos Post	zetoban	PianoLuigi	Hard	10.54	185.0	105081	838	54	audio.mp3	0	bg.jpg
 536	1413	Csikos Post	zetoban	PianoLuigi	Insane	19.06	185.0	105081	1179	85	audio.mp3	0	bg.jpg
 536	1414	Csikos Post	zetoban	PianoLuigi	Expert	28.62	185.0	105081	1622	140	audio.mp3	0	bg.jpg
+994	12290	Disorder	HyuN feat. Yuri	PianoLuigi	Beginner	0.56	193.0	127760	232	4	audio.mp3	0	bg.jpg
+994	12289	Disorder	HyuN feat. Yuri	PianoLuigi	Easy	2.33	193.0	129470	389	9	audio.mp3	0	bg.jpg
+994	12288	Disorder	HyuN feat. Yuri	PianoLuigi	Normal	3.98	193.0	129470	603	7	audio.mp3	0	bg.jpg
+994	12328	Disorder	HyuN feat. Yuri	PianoLuigi	Milky's Hard	10.65	193.0	129470	1024	19	audio.mp3	0	bg.jpg
+994	12329	Disorder	HyuN feat. Yuri	PianoLuigi	Milky's Hyper	16.25	193.0	129470	950	190	audio.mp3	0	bg.jpg
+994	12287	Disorder	HyuN feat. Yuri	PianoLuigi	Insane	21.75	193.0	132734	1294	54	audio.mp3	0	bg.jpg
+994	12278	Disorder	HyuN feat. Yuri	PianoLuigi	Expert	29.05	193.0	132734	1680	63	audio.mp3	0	bg.jpg
 38343	161003	Fake out	Last Note. feat.mirin	Alyca	Easy	2.42	215.0	98760	312	16	audio.mp3	54179	bg.jpg
 38343	161004	Fake out	Last Note. feat.mirin	Alyca	Normal	7.24	215.0	98760	593	25	audio.mp3	54179	bg.jpg
 38343	161274	Fake out	Last Note. feat.mirin	Alyca	Hard	13.65	215.0	98760	831	28	audio.mp3	54179	bg.jpg
 38343	160936	Fake out	Last Note. feat.mirin	Alyca	Insane	18.47	215.0	98760	960	29	audio.mp3	54179	bg.jpg
 38343	161273	Fake out	Last Note. feat.mirin	Alyca	Another	27.24	215.0	98760	1229	29	audio.mp3	54179	bg.jpg
 38343	160879	Fake out	Last Note. feat.mirin	Alyca	Fake out	31.15	215.0	98760	1535	29	audio.mp3	54179	bg.jpg
+923	10932	Fantasy Collision	Plum	PianoLuigi	Beginner	0.41	180.0	145323	183	0	audio.mp3	0	bg.jpg
+923	10931	Fantasy Collision	Plum	PianoLuigi	Easy	1.48	180.0	145323	424	0	audio.mp3	0	bg.jpg
+923	10933	Fantasy Collision	Plum	PianoLuigi	Normal	3.35	180.0	146656	676	1	audio.mp3	0	bg.jpg
+923	10930	Fantasy Collision	Plum	PianoLuigi	Hard	11.9	180.0	146573	1030	5	audio.mp3	0	bg.jpg
+22852	102223	Houkago Mermaid (Cut Ver.)	Shigure Ui	Ainer	Easy	1.55	164.0	87637	294	39	audio.mp3	57454	bg.jpg
+22852	102226	Houkago Mermaid (Cut Ver.)	Shigure Ui	Ainer	Normal	3.79	164.0	87637	396	87	audio.mp3	57454	bg.jpg
+22852	102224	Houkago Mermaid (Cut Ver.)	Shigure Ui	Ainer	Hard	11.19	164.0	87637	640	82	audio.mp3	57454	bg.jpg
+22852	102225	Houkago Mermaid (Cut Ver.)	Shigure Ui	Ainer	Insane	16.6	164.0	87637	540	312	audio.mp3	57454	bg.jpg
 6019	42324	Itadaki	CHUBAY	MarioUniverseZ	Easy	1.37	202.0	116918	375	22	audio.mp3	45631	bg.jpg
 6019	42327	Itadaki	CHUBAY	MarioUniverseZ	Normal	6.62	202.0	117067	708	14	audio.mp3	45631	bg.jpg
 6019	42325	Itadaki	CHUBAY	MarioUniverseZ	Hard	15.23	202.0	117067	1111	18	audio.mp3	45631	bg.jpg
