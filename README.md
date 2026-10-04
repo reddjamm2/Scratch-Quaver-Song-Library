@@ -41,11 +41,11 @@ Q1;FLAGS;INITIAL_SV;TIMING;SVS;NOTES
 
 | Section | Contents |
 |---|---|
-| `FLAGS` | `b` if BPM changes don't affect scroll speed |
+| `FLAGS` | `b`: the SVs are Quaver's normalized SVs (BPM changes already folded in, as gameplay uses them) |
 | `INITIAL_SV` | initial scroll velocity (usually `1`) |
 | `TIMING` | `time,bpm,time,bpm,…` (ms) |
 | `SVS` | `time,multiplier,…` (ms) |
-| `NOTES` | `<lane 0-3><ms since previous note>[~<hold length>]`, comma separated |
+| `NOTES` | `<lane 0-3><ms since previous note>[~<hold length>][*]`, comma separated; `*` = mine |
 
 Example: `Q1;b;1;0,120;;0500,30,1500~250` → taps in lanes 0 and 3 at 500 ms, a 250 ms hold in lane 1 at 2000 ms.
 
