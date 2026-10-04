@@ -1,0 +1,36 @@
+{
+ "set": "local-48646688",
+ "title": "Wall (Cut Ver.)",
+ "artist": "Good Kid",
+ "creator": "Reddjamm2",
+ "difficulties": [
+  {
+   "set": "local-48646688",
+   "map": "local1",
+   "title": "Wall (Cut Ver.)",
+   "artist": "Good Kid",
+   "creator": "Reddjamm2",
+   "difficulty": "Normal",
+   "rating": "",
+   "bpm": 0,
+   "length": 60320,
+   "notes": 4,
+   "holds": 0,
+   "audio": "audio.mp3",
+   "preview_time": 49377,
+   "background": "",
+   "chart_kb": 0.0,
+   "qua_kb": 0.6,
+   "sv_count": 0,
+   "density": 4.004,
+   "keys": 4,
+   "status": 0,
+   "clan": 0,
+   "submitted": "",
+   "updated": "",
+   "plays": 0,
+   "combo": 0,
+   "source": ""
+  }
+ ]
+}
